@@ -1,0 +1,4 @@
+.tracklist {
+  max-height: 41.5rem;
+  overflow-y: scroll;
+}
