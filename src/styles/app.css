@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+}
+
+.heading {
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+.mmm {
+  color: #00A547;
+}
+
+.logo {
+  width: 3rem;
+  height: 3rem;
+  margin-right: 1rem;
+  margin-top: 0.4rem;
+}
+
+.content {
+  height: 90.1vh;
+  display: flex;
+  justify-content: space-around;
+  background-image: url('../util/images/background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h2 {
+  font-family: 'Osw', sans-serif;
+}
+
+.search {
+  width: 40%;
+  max-height: 97%;
+  background-color: #CCE490E2;
+  border-radius: 1rem;
+  margin: 1rem 0;
+  padding: 0 0.7rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+.playlist {
+  width: 40%;
+  max-height: 97%;
+  background-color: #CCE490E2;
+  border-radius: 1rem;
+  margin: 1rem 0;
+  padding: 0 0.7rem;
+  text-align: center;
+  
+}
