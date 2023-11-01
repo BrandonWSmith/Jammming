@@ -1,9 +1,9 @@
 import React, { useCallback, useState } from 'react';
-import '../styles/App.css';
-import SearchBar from './SearchBar';
-import SearchResults from './SearchResults';
-import Playlist from './Playlist';
-import Spotify from '../util/Spotify';
+import '../styles/app.css';
+import SearchBar from './searchbar';
+import SearchResults from './searchresults';
+import Playlist from './playlist';
+import Spotify from '../util/spotify';
 import favicon from '../util/images/favicon.png'
 
 function App() {
