@@ -157,7 +157,7 @@ At the top of the playlist section, you can name your playlist and save it to yo
 
 There are currently no planned features for this app
 
-See the [open issues](https://github.com/BrandonWSmith/eShopping/issues) if you'd like to propose a feature (and view known issues).
+See the [open issues](https://github.com/BrandonWSmith/Jammming/issues) if you'd like to propose a feature (and view known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +185,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 * Email: BWSmith09@gmail.com
-* Project Link: [https://github.com/BrandonWSmith/eShopping](https://github.com/BrandonWSmith/eShopping)
+* Project Link: [https://github.com/BrandonWSmith/Jammming](https://github.com/BrandonWSmith/Jammming)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,14 +193,14 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BrandonWSmith/eShopping.svg?style=for-the-badge
-[contributors-url]: https://github.com/BrandonWSmith/eShopping/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BrandonWSmith/eShopping.svg?style=for-the-badge
-[forks-url]: https://github.com/BrandonWSmith/eShopping/network/members
-[stars-shield]: https://img.shields.io/github/stars/BrandonWSmith/eShopping.svg?style=for-the-badge
-[stars-url]: https://github.com/BrandonWSmith/eShopping/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BrandonWSmith/eShopping.svg?style=for-the-badge
-[issues-url]: https://github.com/BrandonWSmith/eShopping/issues
+[contributors-shield]: https://img.shields.io/github/contributors/BrandonWSmith/Jammming.svg?style=for-the-badge
+[contributors-url]: https://github.com/BrandonWSmith/Jammming/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BrandonWSmith/Jammming.svg?style=for-the-badge
+[forks-url]: https://github.com/BrandonWSmith/Jammming/network/members
+[stars-shield]: https://img.shields.io/github/stars/BrandonWSmith/Jammming.svg?style=for-the-badge
+[stars-url]: https://github.com/BrandonWSmith/Jammming/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BrandonWSmith/Jammming.svg?style=for-the-badge
+[issues-url]: https://github.com/BrandonWSmith/Jammming/issues
 [Jammming-screenshot]: public/images/screenshot.png
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
