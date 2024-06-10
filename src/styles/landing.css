@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+}
+
+.heading {
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+.mmm {
+  color: #00A547;
+}
+
+.logo {
+  width: 3rem;
+  height: 3rem;
+  margin-right: 1rem;
+  margin-top: 0.4rem;
+}
+
+h2 {
+  font-family: 'Osw', sans-serif;
+  margin: 1rem 0;
+}
+
+p {
+  margin: 1.5rem;
+}
+
+.form {
+  text-align: center;
+  margin: 0 auto;
+  width: 40rem;
+}
+
+.note {
+  font-style: italic;
+  font-size: .85rem;
+}

@@ -21,7 +21,7 @@ function SearchBar(props) {
     <div>
       <h2>Search</h2>
       <input
-        placeholder='Enter A Song Title'
+        placeholder='Enter a song, artist or album'
         onChange={handleInputChange}
       />
       <button onClick={search}>

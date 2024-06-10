@@ -1,9 +1,8 @@
-const clientId = encodeURIComponent('');
-const redirectUri = encodeURIComponent('http://localhost:3000/callback');
+const redirectUri = encodeURIComponent('http://localhost:3000/app/callback');
 let accessToken;
 
 const Spotify = {
-  getAccessToken() {
+  getAccessToken(clientId) {
     if(accessToken) {
       return encodeURIComponent(accessToken);
     }
