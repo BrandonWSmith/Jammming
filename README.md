@@ -134,11 +134,17 @@ Upon submitting your client ID, you will be redirected to a Spotify authorizatio
 
 On the left side of the app, you can search for songs, artists or albums listed on Spotify.
 
-<img src="public\images\search.png" alt="Jammming Search" width="270" height="287">
+<div align="center">
+  <img src="public\images\search.png" alt="Jammming Search" width="540" height="574">
+</div>
+</br></br>
 
 Search results can be added to a playlist by clicking the "+" icon which will add the song to the playlist on the right side of the app.
 
-<img src="public\images\playlist.png" alt="Jammming Playlist" width="270" height="287">
+<div align="center">
+  <img src="public\images\playlist.png" alt="Jammming Playlist" width="540" height="574">
+</div>
+</br></br>
 
 At the top of the playlist section, you can name your playlist and save it to your Spotify account.
 
